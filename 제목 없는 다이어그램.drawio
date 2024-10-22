@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="페이지-1" id="jO7z1dyCeIapQeeWM0qE">
-    <mxGraphModel dx="2087" dy="1318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,6 +133,17 @@
         </mxCell>
         <mxCell id="dWjAk6hpG_CuCAJiAuPZ-45" value="예약성공 메시지 발송&lt;div&gt;[1]핸드폰 번호로 발송완료 문자열 생성&lt;br&gt;[2]난수생성으로 예약번호 생성&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-266.5" y="902" width="288.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3Ro1E21E2H8l9tgU71c-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="w3Ro1E21E2H8l9tgU71c-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="737.5" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3Ro1E21E2H8l9tgU71c-2" value="1. 로그인 2.회원가입 3.종료" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="-23" width="352" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3Ro1E21E2H8l9tgU71c-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="139" width="175" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
