@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="페이지-1" id="jO7z1dyCeIapQeeWM0qE">
-    <mxGraphModel dx="1834" dy="1230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1180" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,16 +134,59 @@
         <mxCell id="dWjAk6hpG_CuCAJiAuPZ-45" value="예약성공 메시지 발송&lt;div&gt;[1]핸드폰 번호로 발송완료 문자열 생성&lt;br&gt;[2]난수생성으로 예약번호 생성&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-266.5" y="902" width="288.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w3Ro1E21E2H8l9tgU71c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w3Ro1E21E2H8l9tgU71c-2" target="w3Ro1E21E2H8l9tgU71c-6">
+        <mxCell id="w3Ro1E21E2H8l9tgU71c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w3Ro1E21E2H8l9tgU71c-2" target="w3Ro1E21E2H8l9tgU71c-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="738" y="112" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="79" />
+              <mxPoint x="747" y="79" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w3Ro1E21E2H8l9tgU71c-2" value="1. 로그인 2.회원가입 3.종료" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w3Ro1E21E2H8l9tgU71c-2" value="1. 로그인 2.회원가입 3.종료" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="775" y="-23" width="352" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w3Ro1E21E2H8l9tgU71c-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="109" width="192" height="80" as="geometry" />
+        <mxCell id="w3Ro1E21E2H8l9tgU71c-6" value="로그인 정보가 일치하는가" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="651" y="112" width="192" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w3Ro1E21E2H8l9tgU71c-6" target="v8jQzw-NbdLlAFEhNXOF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="836" y="346" as="sourcePoint" />
+            <mxPoint x="747" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.381;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="w3Ro1E21E2H8l9tgU71c-6" target="w3Ro1E21E2H8l9tgU71c-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="844" y="150" as="sourcePoint" />
+            <mxPoint x="915" y="114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-4" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="841" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-5" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="738" y="196" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-7" value="관리자계정인가" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="240" width="192" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.49;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="v8jQzw-NbdLlAFEhNXOF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="836" y="446" as="sourcePoint" />
+            <mxPoint x="745" y="397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v8jQzw-NbdLlAFEhNXOF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="836" y="446" as="sourcePoint" />
+            <mxPoint x="903" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-10" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="738" y="343" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-11" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="843" y="243" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
