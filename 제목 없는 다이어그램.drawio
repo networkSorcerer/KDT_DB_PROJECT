@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="페이지-1" id="jO7z1dyCeIapQeeWM0qE">
-    <mxGraphModel dx="1834" dy="1128" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WjUg7KidfEI-SgclK0hx-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="378" y="861" width="285" height="285" as="geometry" />
+        </mxCell>
         <mxCell id="dWjAk6hpG_CuCAJiAuPZ-34" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 리스트 작성,수정,삭제&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80.5" y="633" width="290" height="233" as="geometry" />
         </mxCell>
@@ -203,6 +206,9 @@
         <mxCell id="v8jQzw-NbdLlAFEhNXOF-37" value="&lt;div&gt;&amp;lt;관리자 메뉴&amp;gt;&lt;/div&gt;[1] 호텔관리 [2] 리뷰관리 [3] 회원관리 [4]로그아웃" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="590" y="567" width="304" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WjUg7KidfEI-SgclK0hx-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="v8jQzw-NbdLlAFEhNXOF-39" target="WjUg7KidfEI-SgclK0hx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v8jQzw-NbdLlAFEhNXOF-39" value="&lt;div&gt;&amp;lt;호텔 관리&amp;gt;&lt;/div&gt;[1] 호텔리스트 출력&lt;div&gt;[2] 호텔 등록&lt;/div&gt;&lt;div&gt;[3] 호텔 수정&lt;/div&gt;&lt;div&gt;[4] 호텔 삭제&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="547" y="702" width="120" height="136" as="geometry" />
         </mxCell>
@@ -257,41 +263,17 @@
             <mxPoint x="1088" y="457" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0CH-vLfMrTkGWJMKUEdE-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v8jQzw-NbdLlAFEhNXOF-39" target="0CH-vLfMrTkGWJMKUEdE-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="937" as="sourcePoint" />
-            <mxPoint x="514" y="891" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0CH-vLfMrTkGWJMKUEdE-4" value="&amp;lt;호텔 등록&amp;gt;&lt;div&gt;호텔명: _______&lt;/div&gt;&lt;div&gt;지역: _______&lt;/div&gt;&lt;div&gt;전화번호: ________&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0CH-vLfMrTkGWJMKUEdE-4" value="&amp;lt;호텔 등록&amp;gt;&lt;div&gt;호텔명: _______&lt;/div&gt;&lt;div&gt;지역: _______&lt;/div&gt;&lt;div&gt;전화번호: ________&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="524" y="902" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0CH-vLfMrTkGWJMKUEdE-6" value="&amp;lt;호텔 리스트&amp;gt;&lt;div&gt;호텔번호, 호텔명, 지역, 최솟값, 최댓값, 전화번호&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0CH-vLfMrTkGWJMKUEdE-6" value="&amp;lt;호텔 리스트&amp;gt;&lt;div&gt;호텔번호, 호텔명, 지역, 최솟값, 최댓값, 전화번호&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="387" y="902" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0CH-vLfMrTkGWJMKUEdE-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v8jQzw-NbdLlAFEhNXOF-39" target="0CH-vLfMrTkGWJMKUEdE-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="574" y="843" as="sourcePoint" />
-            <mxPoint x="557" y="907" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0CH-vLfMrTkGWJMKUEdE-8" value="&amp;lt;호텔 수정&amp;gt;&lt;div&gt;호텔명: _______&lt;/div&gt;&lt;div&gt;지역: _______&lt;/div&gt;&lt;div&gt;전화번호: ________&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0CH-vLfMrTkGWJMKUEdE-8" value="&amp;lt;호텔 수정&amp;gt;&lt;div&gt;호텔명: _______&lt;/div&gt;&lt;div&gt;지역: _______&lt;/div&gt;&lt;div&gt;전화번호: ________&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="387" y="985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0CH-vLfMrTkGWJMKUEdE-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v8jQzw-NbdLlAFEhNXOF-39" target="0CH-vLfMrTkGWJMKUEdE-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="611" y="848" as="sourcePoint" />
-            <mxPoint x="594" y="912" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0CH-vLfMrTkGWJMKUEdE-10" value="&amp;lt;호텔 삭제&amp;gt;&lt;div&gt;호텔번호 : __&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0CH-vLfMrTkGWJMKUEdE-10" value="&amp;lt;호텔 삭제&amp;gt;&lt;div&gt;호텔번호 : __&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="524" y="985" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0CH-vLfMrTkGWJMKUEdE-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v8jQzw-NbdLlAFEhNXOF-39" target="0CH-vLfMrTkGWJMKUEdE-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="611" y="848" as="sourcePoint" />
-            <mxPoint x="594" y="912" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
