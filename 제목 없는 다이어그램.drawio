@@ -217,7 +217,7 @@
         <mxCell id="v8jQzw-NbdLlAFEhNXOF-39" value="&lt;div&gt;&amp;lt;호텔 관리&amp;gt;&lt;/div&gt;[1] 호텔리스트 출력&lt;div&gt;[2] 호텔 등록&lt;/div&gt;&lt;div&gt;[3] 호텔 수정&lt;/div&gt;&lt;div&gt;[4] 호텔 삭제&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="547" y="702" width="120" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="v8jQzw-NbdLlAFEhNXOF-40" value="&lt;div&gt;&amp;lt;리뷰 관리&amp;gt;&lt;/div&gt;[1] 리뷰 리스트 출력&lt;div&gt;[2] 리뷰 등록&lt;/div&gt;&lt;div&gt;[3] 리뷰 수정&lt;/div&gt;&lt;div&gt;[4] 리뷰 삭제&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-40" value="&lt;div&gt;&amp;lt;리뷰 관리&amp;gt;&lt;/div&gt;[1] 리뷰 리스트 출력&lt;div&gt;[4] 리뷰 삭제&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="682" y="702" width="120" height="136" as="geometry" />
         </mxCell>
         <mxCell id="v8jQzw-NbdLlAFEhNXOF-41" value="&lt;div&gt;&amp;lt;회원 관리&amp;gt;&lt;/div&gt;[1] 회원 리스트 출력&lt;div&gt;[2] 관리자 회원 등록&lt;/div&gt;&lt;div&gt;[3] 회원 삭제&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -227,12 +227,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="805" y="293" as="sourcePoint" />
             <mxPoint x="855" y="243" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v8jQzw-NbdLlAFEhNXOF-50" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="776" y="866" as="sourcePoint" />
-            <mxPoint x="700" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-69zd7syYc6jtr3W0xUl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v8jQzw-NbdLlAFEhNXOF-51" target="-69zd7syYc6jtr3W0xUl-18">
@@ -324,6 +318,9 @@
         <mxCell id="-69zd7syYc6jtr3W0xUl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-69zd7syYc6jtr3W0xUl-12" target="-69zd7syYc6jtr3W0xUl-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-69zd7syYc6jtr3W0xUl-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-69zd7syYc6jtr3W0xUl-12" target="-69zd7syYc6jtr3W0xUl-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-69zd7syYc6jtr3W0xUl-12" value="[1] 예약하기&lt;div&gt;[2] 상세보기&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1224" y="749" width="120" height="60" as="geometry" />
         </mxCell>
@@ -334,19 +331,39 @@
           <mxGeometry x="1200" y="411" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-69zd7syYc6jtr3W0xUl-19" value="&amp;lt;리뷰 작성&amp;gt;&lt;div&gt;내용 : __&lt;/div&gt;&lt;div&gt;평점 : (1~5)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="602" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-69zd7syYc6jtr3W0xUl-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-69zd7syYc6jtr3W0xUl-22" target="-69zd7syYc6jtr3W0xUl-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-69zd7syYc6jtr3W0xUl-22" value="&amp;lt;예약 확인&amp;gt;&lt;div&gt;예약했던 리스트&lt;/div&gt;&lt;div&gt;[1] 예약 수정&lt;/div&gt;&lt;div&gt;[2] 예약 취소&lt;/div&gt;&lt;div&gt;[3] 뒤로가기&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-69zd7syYc6jtr3W0xUl-22" value="&amp;lt;예약 확인&amp;gt;&lt;div&gt;예약했던 리스트&lt;/div&gt;&lt;div&gt;호텔 선택 : 예약번호&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1355" y="355" width="120" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="-69zd7syYc6jtr3W0xUl-25" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1355" y="495" width="120" height="60" as="geometry" />
+        <mxCell id="-69zd7syYc6jtr3W0xUl-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-69zd7syYc6jtr3W0xUl-25" target="-69zd7syYc6jtr3W0xUl-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1415" y="552" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1517" y="501" />
+              <mxPoint x="1517" y="948" />
+              <mxPoint x="1338" y="948" />
+              <mxPoint x="1338" y="910" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-69zd7syYc6jtr3W0xUl-27" value="&amp;lt;예약하기&amp;gt;&lt;div&gt;방종류 리스트 --&lt;/div&gt;&lt;div&gt;호실 -----&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;[1] 체크인 날짜 입력 : __&lt;/div&gt;&lt;div&gt;[2] 체크아웃 날짜 입력 : ___&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[2] 방종류 선택&lt;/div&gt;&lt;div&gt;[3] 호실 선택&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1153" y="863" width="209" height="137" as="geometry" />
+        <mxCell id="-69zd7syYc6jtr3W0xUl-25" value="&lt;div&gt;[1] 예약 수정&lt;/div&gt;&lt;div&gt;[2] 예약 취소&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="471" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-69zd7syYc6jtr3W0xUl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-69zd7syYc6jtr3W0xUl-27" target="-69zd7syYc6jtr3W0xUl-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-69zd7syYc6jtr3W0xUl-27" value="&amp;lt;예약하기&amp;gt;&lt;div&gt;방종류 리스트--&lt;br&gt;&lt;div&gt;&lt;div&gt;[1] 체크인 날짜 입력 : __&lt;/div&gt;&lt;div&gt;[2] 체크아웃 날짜 입력 : ___&lt;/div&gt;&lt;div&gt;[2] 방종류 선택&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1153" y="863" width="173" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="-69zd7syYc6jtr3W0xUl-29" value="방호실 리스트---&lt;div&gt;방호실 선택 : __&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1179.5" y="985" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-69zd7syYc6jtr3W0xUl-31" value="&amp;lt;상세보기&amp;gt;&lt;div&gt;호텔명, 지역, 전화, 호텔설명&lt;/div&gt;&lt;div&gt;리뷰리스트--&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1351" y="866" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
