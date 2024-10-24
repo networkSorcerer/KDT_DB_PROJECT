@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
   <diagram name="페이지-1" id="jO7z1dyCeIapQeeWM0qE">
-    <mxGraphModel dx="2449" dy="1514" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1112" dy="1229" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,6 +364,9 @@
         </mxCell>
         <mxCell id="-69zd7syYc6jtr3W0xUl-31" value="&amp;lt;상세보기&amp;gt;&lt;div&gt;호텔명, 지역, 전화, 호텔설명&lt;/div&gt;&lt;div&gt;리뷰리스트--&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1351" y="866" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4PGXBCH9HUpXlwHBfLo-1" value="[1] 예약 수정" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1527" y="683" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
