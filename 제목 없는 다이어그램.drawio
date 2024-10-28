@@ -354,9 +354,6 @@
         <mxCell id="-69zd7syYc6jtr3W0xUl-31" value="&amp;lt;상세보기&amp;gt;&lt;div&gt;호텔명, 지역, 전화, 호텔설명&lt;/div&gt;&lt;div&gt;리뷰리스트--&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1351" y="866" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u4PGXBCH9HUpXlwHBfLo-1" value="[1] 예약 수정" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1527" y="683" width="75" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
