@@ -248,7 +248,7 @@
         <mxCell id="-69zd7syYc6jtr3W0xUl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v8jQzw-NbdLlAFEhNXOF-53" target="-69zd7syYc6jtr3W0xUl-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v8jQzw-NbdLlAFEhNXOF-53" value="지역별 호텔 리스트&lt;div&gt;호텔 선택 : (호텔ID)&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;뒤로가기나 취소 없음&amp;gt;&amp;gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-53" value="지역별 호텔 리스트&lt;div&gt;호텔 선택 : (호텔ID)&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;뒤로가기나 취소 없음&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;호텔ID 입력 후 검증없음&amp;gt;&amp;gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1018" y="649" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8jQzw-NbdLlAFEhNXOF-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.184;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="v8jQzw-NbdLlAFEhNXOF-51" target="v8jQzw-NbdLlAFEhNXOF-56" edge="1">
@@ -321,7 +321,7 @@
         <mxCell id="-69zd7syYc6jtr3W0xUl-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-69zd7syYc6jtr3W0xUl-12" target="-69zd7syYc6jtr3W0xUl-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-69zd7syYc6jtr3W0xUl-12" value="[1] 예약하기&lt;div&gt;[2] 리뷰보기&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-69zd7syYc6jtr3W0xUl-12" value="[1] 예약하기&lt;div&gt;[2] 리뷰보기&lt;/div&gt;&lt;div&gt;[3] 돌아가기&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;돌아가기 후 지역 선택하면 로그인창으로 감&amp;gt;&amp;gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1224" y="749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-69zd7syYc6jtr3W0xUl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-69zd7syYc6jtr3W0xUl-18" target="-69zd7syYc6jtr3W0xUl-19" edge="1">
@@ -336,7 +336,7 @@
         <mxCell id="-69zd7syYc6jtr3W0xUl-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-69zd7syYc6jtr3W0xUl-22" target="-69zd7syYc6jtr3W0xUl-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-69zd7syYc6jtr3W0xUl-22" value="&amp;lt;예약 확인&amp;gt;&lt;div&gt;예약했던 리스트&lt;/div&gt;&lt;div&gt;호텔 선택 : 예약번호&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="-69zd7syYc6jtr3W0xUl-22" value="&amp;lt;예약 확인&amp;gt;&lt;div&gt;예약했던 리스트&lt;/div&gt;&lt;div&gt;호텔 선택 : 예약번호&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;예약리스트가 없을 때 탈출코드가 없음&amp;gt;&amp;gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1355" y="355" width="120" height="92" as="geometry" />
         </mxCell>
         <mxCell id="-69zd7syYc6jtr3W0xUl-25" value="&lt;div&gt;[1] 예약 수정&lt;/div&gt;&lt;div&gt;[2] 예약 취소&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
