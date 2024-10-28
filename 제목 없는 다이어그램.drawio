@@ -321,7 +321,7 @@
         <mxCell id="-69zd7syYc6jtr3W0xUl-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-69zd7syYc6jtr3W0xUl-12" target="-69zd7syYc6jtr3W0xUl-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-69zd7syYc6jtr3W0xUl-12" value="[1] 예약하기&lt;div&gt;[2] 리뷰보기&lt;/div&gt;&lt;div&gt;[3] 돌아가기&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;돌아가기 후 지역 선택하면 로그인창으로 감&amp;gt;&amp;gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-69zd7syYc6jtr3W0xUl-12" value="[1] 예약하기&lt;div&gt;[2] 리뷰보기&lt;/div&gt;&lt;div&gt;[3] 돌아가기&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;돌아가기 후 지역 선택하면 로그인창으로 감&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;리뷰보기 후 로그인창으로 돌아감&amp;gt;&amp;gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1224" y="749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-69zd7syYc6jtr3W0xUl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-69zd7syYc6jtr3W0xUl-18" target="-69zd7syYc6jtr3W0xUl-19" edge="1">
