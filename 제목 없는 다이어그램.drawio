@@ -206,7 +206,7 @@
         <mxCell id="v8jQzw-NbdLlAFEhNXOF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v8jQzw-NbdLlAFEhNXOF-37" target="v8jQzw-NbdLlAFEhNXOF-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v8jQzw-NbdLlAFEhNXOF-37" value="&lt;div&gt;&amp;lt;관리자 메뉴&amp;gt;&lt;/div&gt;[1] 호텔관리 [2] 리뷰관리 [3] 회원관리 [4]로그아웃" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="v8jQzw-NbdLlAFEhNXOF-37" value="&lt;div&gt;&amp;lt;관리자 메뉴&amp;gt;&lt;/div&gt;[1] 호텔관리 [2] 리뷰관리 [3] 회원관리 [4]로그아웃&lt;div&gt;&amp;lt;&amp;lt;관리자 유저들이 전부 관리자 메뉴로 접속하게 수정 필요함&amp;gt;&amp;gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="590" y="567" width="304" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WjUg7KidfEI-SgclK0hx-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="v8jQzw-NbdLlAFEhNXOF-39" target="-69zd7syYc6jtr3W0xUl-8" edge="1">
